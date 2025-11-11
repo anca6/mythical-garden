@@ -13,7 +13,7 @@ Explore the world around you, collect mystical seeds, nurture them into blooming
 | **Language** | C# |
 | **Frameworks** | Vuforia Engine (AR) |
 | **Core Systems** | Live GPS tracking, Inventory management, Growth progression, Story unlocking |
-| **Features** | Seed collection, Plant nurturing, Growth stages (seed → bloom), AR display |
+| **Features** | Seed collection, Growth stages (seed → bloom), AR display |
 | **Tools** | Git, Unity URP, Android build tools |
 
 ---
