@@ -65,5 +65,6 @@ By merging **GPS-based mechanics** and **AR visualization**, the project creates
 
 Developed using **Unity (2022.3.19f1)** with **C#** and **Vuforia Engine**.  
 Requires **mobile GPS** and **camera access** for full functionality.
+Check out the uploaded demo under **Releases**
 
 
