@@ -46,7 +46,7 @@ Explore the world around you, collect mystical seeds, nurture them into blooming
 
 | Role | Members |
 |------|----------|
-| **Engineer** | **Anca Custură** |
+| **Engineer** | Anca Custură |
 | **Designer** | Robert Oprea |
 | **Artists** | Irem Dogan, Mei Shang Ng, Farbod Toorani  |
 
